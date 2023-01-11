@@ -1,5 +1,5 @@
 # Middlemarch
-# Лабораторная работа №4
+## Лабораторная работа №4
 
 
 Группа: ДЭ-920
@@ -10,9 +10,10 @@
 
 
 
-### Preview
-This project is automatically deployed to Netlify at the url:
+### Предварительный просмотр
+Скриншоты лабораторной работы:
 
-https://middlemarch.netlify.app/
-
-![Screenshot 2022-02-04 at 17 42 13](https://user-images.githubusercontent.com/419506/152567821-ebc2073d-2759-412f-8e55-fcb1261d6c6c.png)
+![screen1](https://raw.githubusercontent.com/DarkAlfar/lab4/main/public/screen1.PNG)
+![screen2](https://raw.githubusercontent.com/DarkAlfar/lab4/main/public/screen2.PNG)
+![screen3](https://raw.githubusercontent.com/DarkAlfar/lab4/main/public/screen3.PNG)
+![screen4](https://raw.githubusercontent.com/DarkAlfar/lab4/main/public/screen4.PNG)
